@@ -22,8 +22,8 @@ Body
 
 ```json
 {
-    name: "Sandwich",
-    price : 3.5
+    "name": "Sandwich",
+    "price" : 3.5
 }
 ```
 Returns
